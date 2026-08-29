@@ -1,0 +1,7 @@
+{
+    "rows": 3000,
+    "columns": 40,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "documents": 3000,
+    "faiss_index_size": 3000
+}
